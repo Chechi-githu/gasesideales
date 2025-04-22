@@ -1,5 +1,5 @@
 import streamlit as st
-st.imagen("imagen2chemistry.webp")
+st.image("imagen2chemistry.webp")
 # Constante de los gases en atm·L/mol·K
 R = 0.0821
 
